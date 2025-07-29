@@ -20,4 +20,22 @@ public class CustomLinkedList {
         return node;
     }
 
+    public synchronized boolean detectloop (){
+         if(head==null){
+             System.out.println("head is null");
+             return false;
+         }
+         Node currentNode=head;
+         Node moveFast=head;
+         Node moveSlow=head;
+         while(moveSlow!=null && moveFast!=null && moveFast.next!=null){
+             moveFast=moveFast.next.next;
+             moveSlow=moveSlow.next;
+             if(moveFast==moveSlow){
+                 return true;
+             }
+         }
+         return false;
+    }
+
 }
