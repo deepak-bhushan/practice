@@ -1,0 +1,67 @@
+Java with oops and
+ 1- Singleton class
+ 2- Breaksingleton class
+ 3- Prevent singleton class
+ 4- Hashmap implementation
+ 5- Diff between arraylist and linkedlist
+ 6- Jdk implementation
+ 7- Diff between comparator and comparable
+ 8- Java 8 feature
+ 9- Java 17 feature
+ 10- Parent Exception
+ 11- Diff between heap memory and stack memory
+ 12- What is OOPs concept
+ 13- Diff btw internal and external iterator (Need to check)
+ 14-
+ 15-
+
+
+Code
+  - Second highest salary
+  - Third highest salary
+  - Linked list reverse
+  - ArrayList implementation
+  - Detect a loop in linkedlist
+  - Employee who is getting second highest salary from list
+  - Find the distinct elements from the list
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+
+Java with stream
+ 1- What is stream
+ 2- Operations in stream
+ 3- Average sum of odd numbers
+ 4- Remove duplicates from list
+ 5- List of employees based on city
+ 6- Get distinct elements from
+ 7-
+ 8-
+ 9-
+ 10-
+
+
+Spring,api and Spring boot
+ 1- Diff btw requestmappping and gettingmapping
+ 2- Diff btw PUT and POST
+ 3- What is status code
+ 4- What is paging (Need to check)
+ 5- What is api versioning (Need to check)
+ 6- Handle exception globally in spring boot
+ 7- Types of authentication (Need to check)
+ 8- what is spring security (Need to check)
+ 9- Implementation of spring security in our application
+ 10- Diff between controller and restcontroller (Need to check)
+ 11-
+ 12-
+
+
+
+
+
+
+
