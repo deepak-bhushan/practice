@@ -29,8 +29,8 @@ Code
   - Detect a loop in linkedlist
   - Employee who is getting second highest salary from list
   - Find the distinct elements from the list
-  -
-  -
+  - Find the duplicate character from string using stream
+  - Print ood even in single stream
   -
   -
   -
@@ -70,3 +70,5 @@ Spring,api and Spring boot
 
 
 
+SQl
+- Find the 

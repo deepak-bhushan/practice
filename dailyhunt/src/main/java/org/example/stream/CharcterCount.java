@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 public class CharcterCount {
     public static void main(String[] args) {
-        String s="dee";
+        String s="deeplie";
         List<Character> duplicatechar=s.chars()
                 .mapToObj(c -> (char) c)
                 .collect(Collectors.groupingBy(c->c,Collectors.counting()))
@@ -19,3 +19,5 @@ public class CharcterCount {
         System.out.println(duplicatechar);
 
     }}
+//d
+
